@@ -23,3 +23,6 @@ hs_err_pid*
 
 #Tests
 *Test*.java
+
+#IDEA files
+workspace.xml
